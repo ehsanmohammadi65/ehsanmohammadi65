@@ -48,10 +48,10 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/leonardo-yzquierdo-97899983/" target="_blank">
+  <a href="https://www.linkedin.com/in/ehsan-mohamadi-pv/" target="_blank">
     <code><img width="51" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/master/assets/linkedIn.png"/></code>
   </a>
-  <a href="mailto: leoyzquierdo@gmail.com" target="_blank">
+  <a href="mailto: xyxyxyxy16@gmail.com" target="_blank">
     <code><img width="55" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/master/assets/gmail.png"/></code>
   </a>
 </p>
