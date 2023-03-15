@@ -10,7 +10,7 @@
 
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
-<code><img width="43" src="https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg"></code>
+<code><img width="43" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>
 <code><img width="40" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/master/assets/Typescript.svg"></code>
 <code><img width="43" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg"></code>
 <code><img width="43" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
