@@ -1,23 +1,23 @@
-<h1> 𝗛𝗶! 𝗜'𝗺 Ehsan Mohammadi.<img src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/Hi.gif" width="25"></h1>
-<img align="right" width="50%" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/responsive-design-image.gif">
+<h1> 𝗛𝗶! 𝗜'𝗺 Ehsan Mohammadi.<img src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/master/assets/Hi.gif" width="25"></h1>
+<img align="right" width="50%" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/master/assets/responsive-design-image.gif">
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
-<li> 💻 𝖨'𝗆 𝖥𝗋𝗈𝗇𝗍 𝖤𝗇𝖽 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
-<li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖱𝖾𝖺𝖼𝗍𝖩𝖲 | 𝖭𝖾𝗑𝗍𝖩𝖲</li>
+<li> 💻 𝖨'𝗆 Full Stack 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
+<li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 VueJS | NodeJS | Android</li>
 <li> 😍 𝖫𝗈𝖿𝗂 𝖡𝖾𝖺𝗍𝗌 + 𝖢𝗈𝖽𝗂𝗇𝗀 </li>
 <li> 😆 𝖯𝗋𝗈𝗇𝗈𝗎𝗇𝗌: 𝖧𝖾/𝖧𝗂𝗆 </li>
 
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
-<code><img width="43" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/React.svg"></code>
-<code><img width="40" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/Typescript.svg"></code>
-<code><img width="43" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/nextjs-logo.svg"></code>
-<code><img width="43" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/redux-logo.svg"></code>
-<code><img width="40" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/JS.svg"></code>
-<code><img width="40" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/git.svg"></code>
-<code><img width="40" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/figma-logo.png"></code>
-
+<code><img width="43" src="https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg"></code>
+<code><img width="40" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/master/assets/Typescript.svg"></code>
+<code><img width="43" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg"></code>
+<code><img width="43" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg"></code>
+<code><img width="40" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/master/assets/JS.svg"></code>
+<code><img width="40" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/master/assets/git.svg"></code>
+<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg"></code>
+<code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg"></code>
 <br/>
 <br/>
 
@@ -49,15 +49,15 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/leonardo-yzquierdo-97899983/" target="_blank">
-    <code><img width="51" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/linkedIn.png"/></code>
+    <code><img width="51" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/master/assets/linkedIn.png"/></code>
   </a>
   <a href="mailto: leoyzquierdo@gmail.com" target="_blank">
-    <code><img width="55" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/gmail.png"/></code>
+    <code><img width="55" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/master/assets/gmail.png"/></code>
   </a>
 </p>
 <br/>
 
-![Snake animation](https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ehsanmohammadi65/ehsanmohammadi65/output/github-contribution-grid-snake.svg)
 
 #
 
