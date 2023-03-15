@@ -32,8 +32,8 @@
 
 <p align="center">
   <a href="https://github.com/ehsanmohammadi65/" target="_blank">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LeonardoYz&show_icons=true&theme=react" alt="LeonardoYz's Stats" />
-    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoYz&layout=compact&theme=react" alt="Most Used Languages" />
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ehsanmohammadi65_icons=true&theme=react" alt="ehsanmohammadi's Stats" />
+    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanmohammadi65=compact&theme=react" alt="Most Used Languages" />
   </a>
 </p>
 </details>
