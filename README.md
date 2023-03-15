@@ -1,5 +1,5 @@
-<h1> 𝗛𝗶! 𝗜'𝗺 Ehsan Mohammadi.<img src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/main/assets/Hi.gif" width="25"></h1>
-<img align="right" width="50%" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/main/assets/responsive-design-image.gif">
+<h1> 𝗛𝗶! 𝗜'𝗺 Ehsan Mohammadi.<img src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/Hi.gif" width="25"></h1>
+<img align="right" width="50%" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/responsive-design-image.gif">
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
@@ -10,13 +10,13 @@
 
 <br/>
 <h2>𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀</h2>
-<code><img width="43" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/main/assets/React.svg"></code>
-<code><img width="40" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/main/assets/Typescript.svg"></code>
-<code><img width="43" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/main/assets/nextjs-logo.svg"></code>
-<code><img width="43" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/main/assets/redux-logo.svg"></code>
-<code><img width="40" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/main/assets/JS.svg"></code>
-<code><img width="40" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/main/assets/git.svg"></code>
-<code><img width="40" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/main/assets/figma-logo.png"></code>
+<code><img width="43" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/React.svg"></code>
+<code><img width="40" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/Typescript.svg"></code>
+<code><img width="43" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/nextjs-logo.svg"></code>
+<code><img width="43" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/redux-logo.svg"></code>
+<code><img width="40" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/JS.svg"></code>
+<code><img width="40" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/git.svg"></code>
+<code><img width="40" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/figma-logo.png"></code>
 
 <br/>
 <br/>
@@ -49,10 +49,10 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/leonardo-yzquierdo-97899983/" target="_blank">
-    <code><img width="51" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/main/assets/linkedIn.png"/></code>
+    <code><img width="51" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/linkedIn.png"/></code>
   </a>
   <a href="mailto: leoyzquierdo@gmail.com" target="_blank">
-    <code><img width="55" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/main/assets/gmail.png"/></code>
+    <code><img width="55" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/assets/gmail.png"/></code>
   </a>
 </p>
 <br/>
