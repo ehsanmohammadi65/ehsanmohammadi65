@@ -32,8 +32,8 @@
 
 <p align="center">
   <a href="https://github.com/ehsanmohammadi65/" target="_blank">
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ehsanmohammadi65_icons=true&theme=react" alt="ehsanmohammadi's Stats" />
-    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanmohammadi65=compact&theme=react" alt="Most Used Languages" />
+    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ehsanmohammadi65&show_icons=true&theme=react" alt="LeonardoYz's Stats" />
+    <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanmohammadi65&layout=compact&theme=react" alt="Most Used Languages" />
   </a>
 </p>
 </details>
@@ -49,10 +49,10 @@
 <p align="center">
   <br>
   <a href="https://www.linkedin.com/in/ehsan-mohamadi-pv/" target="_blank">
-    <code><img width="51" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/master/assets/linkedIn.png"/></code>
+    <code><img width="51" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/master/assets/linkedIn.png"/></code>
   </a>
   <a href="mailto: xyxyxyxy16@gmail.com" target="_blank">
-    <code><img width="55" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/master/assets/gmail.png"/></code>
+    <code><img width="55" src="https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/master/assets/gmail.png"/></code>
   </a>
 </p>
 <br/>
