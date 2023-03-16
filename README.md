@@ -57,7 +57,7 @@
 </p>
 <br/>
 
-![Snake animation](https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ehsanmohammadi65/ehsanmohammadi65/blob/output/github-contribution-grid-snake.svg')
 
 #
 
