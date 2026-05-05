@@ -49,6 +49,9 @@
 
 <p align="center">
   <br>
+    <a href="" target="_blank">
+    <code><img width="51" src="https://raw.githubusercontent.com/ehsanmohammadi65/ehsanmohammadi65/main/assets/linkedIn.png"/></code>
+  </a>
   <a href="https://www.linkedin.com/in/ehsan-mohamadi-pv/" target="_blank">
     <code><img width="51" src="https://raw.githubusercontent.com/ehsanmohammadi65/ehsanmohammadi65/main/assets/linkedIn.png"/></code>
   </a>
